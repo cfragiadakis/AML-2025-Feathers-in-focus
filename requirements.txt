@@ -7,4 +7,5 @@ timm
 tqdm
 transformers
 torch
+torchinfo
 torchvision
