@@ -208,6 +208,6 @@ __marimo__/
 
 data/
 experiments/
-submissions/
+predictions/
 cnn_models/
 baseline_models/
