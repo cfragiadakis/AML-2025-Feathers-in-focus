@@ -7,4 +7,4 @@ To run the project, install [torch](https://pytorch.org/get-started/locally/) de
 ```bash
 pip install -r requirements.txt
 
-![Poster template](https://github.com/user-attachments/assets/4d29a336-532c-4ad4-9ac0-7ffcb1b195c2)
+![Poster](Poster Template/logo.jpg)
